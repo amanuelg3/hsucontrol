@@ -50,6 +50,7 @@ Usage:
 11."DisConn" = Dis Connect from your PC.
 
 
+
 Buy at Android Market(Search"easyControl")
 
 QR Code
