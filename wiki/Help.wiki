@@ -2,11 +2,6 @@ easyControl--Android Remote Control PC
 
 Operate your desktop computer from your mobile phone!
 
-Buy at Android Market(Search"easyControl")
-
-QR Code
-
-[http://chart.apis.google.com/chart?cht=qr&chs=135x135&chl=market://search?q=pname:com.billhsu.ezcontrol]
 
 1.Download EZControl(PC terminal)(Free! Size:542 KB) to your PC from here:
 
@@ -53,3 +48,10 @@ Usage:
 10.Left Click=Mouse Left Click | Rit Click=Mouse Right Click
 
 11."DisConn" = Dis Connect from your PC.
+
+
+Buy at Android Market(Search"easyControl")
+
+QR Code
+
+[http://chart.apis.google.com/chart?cht=qr&chs=135x135&chl=market://search?q=pname:com.billhsu.ezcontrol]
