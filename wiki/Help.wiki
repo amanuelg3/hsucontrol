@@ -46,4 +46,4 @@ Usage:
 
 10.Left Click=Mouse Left Click | Rit Click=Mouse Right Click
 
-11.DisConn=DisConnect from your PC.
+11.DisConn = DisConnect from your PC.
