@@ -1,13 +1,49 @@
-#summary One-sentence summary of this page.
+EZControl--Android Remote Control PC
 
-= Introduction =
+Operate your desktop computer from your mobile phone!
 
-Add your content here.
+1.Download EZControl(PC terminal)(Free! Size:542 KB) to your PC from here:
 
+http://code.google.com/p/hsucontrol/downloads/list
 
-= Details =
+and Press "Start".
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[http://www.cppblog.com/images/cppblog_com/billhsu/13310/r_ezc_pc.PNG]
+
+2.Open EZControl on your phone and press "Connect".
+
+Fill in the IP address shown on the PC terminal.
+
+Port is defaultly set at 31416,you can change to other ports if you want.
+
+Press "OK" and then your phone is connect with you PC.
+
+[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_preview1.png]
+
+You can control your PC via your Phone now!
+
+[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_preview2.png]
+
+Usage:
+
+1.Touch on your screen to control mouse position on PC.
+
+2.Use your phone key board to input on PC.
+
+3.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_esc.PNG]=Press Esc on PC
+
+4.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_f5.PNG]=Press F5
+
+5.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_close.PNG]=Close current active window
+
+6.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_win.PNG]=Press Windows
+
+7.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_enter.PNG]=Press enter
+
+8.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_shutoff.PNG]=Shutdown PC
+
+9.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_up.PNG][http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_down.PNG][http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_left.PNG][http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_right.PNG]=Press key Up,Down,Left,Right
+
+10.Left Click=Mouse Left Click | Rit Click=Mouse Right Click
+
+11.DisConn=DisConnect from your PC.
