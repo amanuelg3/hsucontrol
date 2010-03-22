@@ -49,7 +49,7 @@ Usage:
 
 11."DisConn" = Dis Connect from your PC.
 
-//
+.
 
 Buy at Android Market(Search"easyControl")
 
@@ -57,8 +57,11 @@ QR Code
 
 [http://chart.apis.google.com/chart?cht=qr&chs=135x135&chl=market://search?q=pname:com.billhsu.ezcontrol=qrcode.png]
 
-//
+.
 
 Bugs or suggests please email me : billhsu@126.com
+
+.
+
 
 [http://s05.flagcounter.com/count/cODs/bg=FFFFFF/txt=000000/border=CCCCCC/columns=2/maxflags=12/viewers=0/labels=0/=vistors.png]
