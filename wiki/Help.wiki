@@ -60,8 +60,3 @@ QR Code
 .
 
 Bugs or suggests please email me : billhsu@126.com
-
-.
-
-
-[http://s05.flagcounter.com/count/cODs/bg=FFFFFF/txt=000000/border=CCCCCC/columns=2/maxflags=12/viewers=0/labels=0/=vistors.png]
