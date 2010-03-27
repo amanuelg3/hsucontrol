@@ -45,9 +45,11 @@ Usage:
 
 9.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_up.PNG][http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_down.PNG][http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_left.PNG][http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_right.PNG]=Press key Up,Down,Left,Right
 
-10.Left Click=Mouse Left Click | Rit Click=Mouse Right Click
+10.[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_computer.png]=Open "My Computer"
 
-11."DisConn" = Dis Connect from your PC.
+11.Left Click=Mouse Left Click | Rit Click=Mouse Right Click
+
+12."DisConn" = Dis Connect from your PC.
 
 .
 
