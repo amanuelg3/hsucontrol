@@ -1,6 +1,6 @@
 easyControl--Android Remote Control PC
 
-[Version 1.2.5 is available!]
+Version 1.2.5 is available!
 
 Operate your desktop computer from your mobile phone!
 
