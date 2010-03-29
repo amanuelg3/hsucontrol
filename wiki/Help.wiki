@@ -1,6 +1,6 @@
 easyControl--Android Remote Control PC
 
-[Version 1.2.5 is avaliable!]
+[Version 1.2.5 is available!]
 
 Operate your desktop computer from your mobile phone!
 
@@ -17,7 +17,7 @@ and Press "Start".
 
 Fill in the IP address shown on the PC terminal.
 
-Port is defaultly set at 31416,you can change to other ports if you want.
+Port is default set at 31416,you can change to other ports if you want.
 
 Press "OK" and then your phone is connect with you PC.
 
