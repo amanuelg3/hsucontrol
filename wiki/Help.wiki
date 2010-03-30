@@ -1,6 +1,7 @@
 easyControl--Android Remote Control PC
 
-For Android 1.5 or higher and Windows 2k/XP/Vista/7
+For Android 1.5 or higher and Windows 2k/XP/Vista/7.
+If the app doesn't work with your PC or phone,Please email me at billhsu@126.com.
 
 ==*Version 1.2.5 is available!*==
 
