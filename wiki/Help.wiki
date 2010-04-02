@@ -63,12 +63,6 @@ Usage:
 
 .
 
-Buy at Android Market(Search"easyControl")
 
-QR Code
-
-[http://chart.apis.google.com/chart?cht=qr&chs=135x135&chl=market://search?q=pname:com.billhsu.ezcontrol=qrcode.png]
-
-.
 
 Bugs or suggests please email me : billhsu@126.com
