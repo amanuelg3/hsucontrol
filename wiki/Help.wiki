@@ -33,7 +33,7 @@ Press "OK" and then your phone is connect with you PC.
 
 You can control your PC via your Phone now!
 
-[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_preview2.png]
+[http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_device2.png]
 
 Usage:
 
