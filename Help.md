@@ -1,0 +1,68 @@
+EZControl--Android Remote Control PC
+
+For Android 1.5 or higher and Windows 2k/XP/Vista/7.
+
+**If the app doesn't work with your PC or phone,It's because your network doesn't allow connection from outside.You may turn to your ISP for help.**
+
+## **Version 1.3.1 is available!** ##
+
+## **Comments and ratings appreciated!** ##
+
+http://www.graptor.com
+
+Operate your desktop computer from your mobile phone!
+
+
+1.Download EZControl(PC terminal)(Free! Size:542 KB) to your PC from here:
+
+http://code.google.com/p/hsucontrol/downloads/list
+
+and Press "Start".
+
+http://www.cppblog.com/images/cppblog_com/billhsu/13310/r_ezc_pc.PNG
+
+2.Open EZControl on your phone and press "Connect".
+
+Fill in the IP address shown on the PC terminal.
+
+Port is default set at 31416,you can change to other ports if you want.
+
+Press "OK" and then your phone is connect with you PC.
+
+![http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_preview1.png](http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_preview1.png)
+
+You can control your PC via your Phone now!
+
+![http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_device2.png](http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_device2.png)
+
+Usage:
+
+1.Touch on your screen to control mouse position on PC.
+
+2.Use your phone key board to input on PC.
+
+3.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_esc.PNG=Press Esc on PC
+
+4.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_f5.PNG=Press F5
+
+5.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_close.PNG=Close current active window
+
+6.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_win.PNG=Press Windows
+
+7.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_enter.PNG=Press enter
+
+8.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_shutoff.PNG=Shutdown PC
+
+9.http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_up.PNGhttp://www.cppblog.com/images/cppblog_com/billhsu/13310/o_down.PNGhttp://www.cppblog.com/images/cppblog_com/billhsu/13310/o_left.PNGhttp://www.cppblog.com/images/cppblog_com/billhsu/13310/o_right.PNG=Press key Up,Down,Left,Right
+
+10.![http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_computer.png](http://www.cppblog.com/images/cppblog_com/billhsu/13310/o_computer.png)=Open "My Computer"
+
+11.Left Click=Mouse Left Click | Rit Click=Mouse Right Click
+
+12."DisConn" = Dis Connect from your PC.
+
+.
+
+
+
+Bugs or suggests please email me : billhsu@126.com
